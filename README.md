@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @palpaulcode
+- 👋 Hi, I’m @palpaul
 - 👀 I’m interested in Java and Database design and development (backend dev)
 - 🌱 I’m currently learning Spring and Springboot
 - 💞️ I’m looking to collaborate on java-based projects
