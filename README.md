@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @palpaul
-- 👀 I’m interested in Java and Database design and development (backend dev)
-- 🌱 I’m currently learning Spring and Springboot
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in Java Spring and Spring boot, and Database design and development (backend dev)
+- 🌱 I’m currently learning DevOps Technologies
 - 💞️ I’m looking to collaborate on java-based projects
 - 📫 How to reach me - palpaul49@gmail.com
 
